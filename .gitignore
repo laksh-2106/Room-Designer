@@ -1,3 +1,7 @@
 node_modules
 dist
 .env
+.vercel
+.vscode
+.idea
+.DS_Store
